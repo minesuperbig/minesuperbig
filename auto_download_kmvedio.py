@@ -25,8 +25,8 @@ while True:
         driver.find_element(By.XPATH, '/html/body/div/div/div[2]/div/div/div[1]/div/div[1]/div/div/a').click()
         time.sleep(0.5)
         driver.find_element(By.XPATH, '/html/body/div/div/div[1]/div[4]/div/div[2]/div[1]/input').send_keys(
-            '18173708068')
-        driver.find_element(By.XPATH, '/html/body/div/div/div[1]/div[4]/div/div[2]/div[2]/input').send_keys('123456')
+            '将这行字替换成你的账号')
+        driver.find_element(By.XPATH, '/html/body/div/div/div[1]/div[4]/div/div[2]/div[2]/input').send_keys('将这行字替换成你的密码')
         driver.find_element(By.XPATH, '/html/body/div/div/div[1]/div[4]/div/div[2]/button').click()
         time.sleep(2)
         driver.find_element(By.XPATH, '/html/body/div/div/div[1]/div[7]/div/div[1]/button').click()
