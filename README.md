@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**minesuperbig/minesuperbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 这是一个爬取快猫小电影的爬虫程序，此程序目前只适合linux及mac电脑使用，因为是使用了cat命令来拼接ts文件成MP4格式，后续会推出Windows版本。
 下面是使用说明：
 1.打开快猫视频的官网www.re05.cc
